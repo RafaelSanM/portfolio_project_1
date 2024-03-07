@@ -1,0 +1,9 @@
+:root {
+    --max-width-size: 1920px;
+    --main-color-yellow:#F6DD04;
+    --secundary-color-yellow: #FDE176;
+    --body-bg-color: rgba(255, 255, 255, 0.8);
+    --form-color: #fafafa;
+    --main-color-black: rgba(0, 0, 0, 0.7);
+    --header-bg-color: #fff;
+}
