@@ -1,6 +1,6 @@
-Easy Marketing  - Website
+<h1>Easy Marketing  - Website</h1>
 
-Introduction
+<h2>Introduction</h2> 
 
 ## Codeanywhere Reminders
 
