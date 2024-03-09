@@ -144,7 +144,7 @@
     }
 
     /* Header Menu hamburger */
-    
+
     .header .menu {
         display: block;
     }
@@ -153,7 +153,7 @@
         display: none;
     }
 
-    .header input:checked ~ ul {
+    .header input:checked~ul {
         display: block;
     }
 
@@ -167,7 +167,7 @@
     .header ul {
         box-shadow: -3px 7px 5px 1px rgba(0, 0, 0, 0.034);
     }
-    
+
     .header label {
         display: flex;
         flex-direction: column;
@@ -239,13 +239,11 @@
         width: 100%;
     }
 
-    .contact-info {
-        
-    }
+    .contact-info {}
 }
 
 @media (max-width: 1024px) {
- 
+
     /* General */
 
     #hero .hero-title,
@@ -317,3 +315,25 @@
     }
 }
 
+@media (max-width: 1440px) {
+
+    #about #team-leaders {
+        display: flex;
+        gap: 20px;
+    }
+    
+    #about .leader img {
+        width: 100%;
+    }
+
+    #about .members-images {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+    }
+
+    #about .members-text .cards {
+        display: flex;
+    }
+}
