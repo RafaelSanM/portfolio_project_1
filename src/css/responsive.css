@@ -7,8 +7,9 @@
     #hero .hero-title,
     #about .about-title,
     #services .services-title,
-    #projects .projects-title {
-        font-size: 2.7rem;
+    #projects .projects-title,
+    #thanks-box .thanks-box-title {
+        font-size: 2rem;
         text-align: center;
     }
 
@@ -114,6 +115,16 @@
 
     .contact-info {
         display: none;
+    }
+
+    /* #Thanks-page */
+
+    #thanks-box {
+        height: 80vh;
+    }
+
+    #thanks-box .text {
+        font-size: 2.2rem;
     }
 
     /* footer */
@@ -257,7 +268,7 @@
     #about .about-title,
     #services .services-title,
     #projects .projects-title {
-        font-size: 4rem;
+        font-size: 3.5rem;
     }
 
     #services h2,
@@ -324,11 +335,13 @@
 
 @media (max-width: 1440px) {
 
+    /* About */
+
     #about #team-leaders {
         display: flex;
         gap: 20px;
     }
-    
+
     #about .leader img {
         width: 100%;
     }
@@ -343,4 +356,5 @@
     #about .members-text .cards {
         display: flex;
     }
+
 }
