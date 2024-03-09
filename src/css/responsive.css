@@ -177,6 +177,10 @@
         align-self: flex-end;
     }
 
+    .header nav ul li a {
+        padding: 7px 30px;
+    }
+
     /* Home */
 
     #hero-section .hero-section-text>p {

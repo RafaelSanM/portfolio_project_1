@@ -549,6 +549,7 @@ textarea:focus {
 footer {
     display: flex;
     justify-content: space-around;
+    align-items: center;
     padding: 20px 0px;
     background: var(--secundary-color-yellow);
 }
