@@ -1,35 +1,50 @@
 <h1>Easy Marketing  - Website</h1>
 
-<h2>Introduction</h2> 
+<h1>Introduction</h1> 
 
-## Codeanywhere Reminders
+Project milestone 1: HTML/CSS Essentials - Code Institute Full-stack development program.
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+This project is a Front End website for a Marketing agency. Essential for establishing a presence on the web, it works as a central hub for our services, projects and contacts. In addition to promoting visibility, the website is a powerful tool for attracting customers, conveying our expertise and building lasting relationships. It's the virtual gateway to exploring our innovative approach and winning new business opportunities.
 
-`python3 -m http.server`
+Live Project Here [Easy marketing project page](https://rafaelsanm.github.io/portfolio_project_1/).
+(https://github.com/RafaelSanM/portfolio_project_1/blob/main/src/images/responsive-img.png)
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+<h2>User Experience </h2>
+- As a website devloper, I'd like to:
+  1. Develop a website that visually catches the user's attention and makes them intrigued to explore all the pages.
+  2. Develop an easy to navigate website.
+- As a first visitor, I'd like to:
+  1. Understand the main purpose of the site.
+  2. Be able to easily navigate the website and find relevant content about digital marketing services.
+  3. Be able to easily contact the company for more information.
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+  <h2>Design</h2>
+  <h3>Website Structure</h3>
+  
+  Travel Easy Marketing websote is a six pages site: Home Page, About Page, Services Page, Projects Page, Contact Page and Thanks Page. The default loading page is the Home Page. The Home Page has 4 sections: (1) Hero, (2) Banner, (3) Hero-section, (4) Footer. The About Page has 3 sections: (1) Section About, (2) Team, (3) Footer. The Services Page has 2 sections: (1) Services (2) Footer. The Contact Page has 2 sections: (1) Contact Text (2) Form (3) Contact info (4) Footer. The Thanks Page has two sections: (1) 'Thanks' message and (2) Footer.
 
-`http_server`
+<h2>Colour Scheme</h2>
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+   - main color yellow:#F6DD04;
+   - secundary color yellow: #FDE176;
+   - body background color: rgba(255, 255, 255, 0.8);
+   - form color: #fafafa;
+   - main color black: rgba(0, 0, 0, 0.7);
+   - header background color: #fff;
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+There are three main colours used: (1 ) white rgba(255, 255, 255, 0.8), (2) yellow (#F6DD04), (3) a black (rgba(0, 0, 0, 0.7)). There are three secundary colours used: (1 ) yellow (#FDE176), (2) whhite (#fafafa), (3) a black (#fff). The white rgba(255, 255, 255, 0.8) is used for the main website background, the black and yellow is used for text. When the user hovers, the yellow (#F6DD04) is used for the button background. In the Footer Section I used a secundary color yellow (#FDE176).
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+<h2>Typography</h2>
 
-To log into the Heroku toolbelt CLI:
+  - The Ubuntu, sans-serif is used as the main font for the whole website.
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+<h2>Imagery</h2> 
+  - 1 background images in the Hero Section (Banner).
+  - 4 Images for the team leader in the About Section and # images for the team members. They are jpg and jpeg files.
+  - 4 images in the Services Section showing members working. They are jpg files.
+  - 7 images in the Projects Section showing some of our Projects.
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+<h2>Interactive Links</h2>
+  At the footer and , users can access the company social media links (Facebook, Twitter, Instagram and Youtube Channel). Once these icons are clicked they are opened in a new tab. 
 
----
 
-Happy coding!

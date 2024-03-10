@@ -41,12 +41,12 @@
         align-items: center;
     }
 
-    #hero-section .hero-section-text>p {
-        font-size: 1.3rem;
+    #hero-section .hero-section-text>h3 {
+        font-size: 2rem;
     }
 
-    .hero-section-text {
-        max-width: 100%;
+    #hero-section .hero-section-text>p {
+        font-size: 1.3rem;
     }
 
     #hero-section .btns {
@@ -194,9 +194,22 @@
 
     /* Home */
 
-    #hero-section .hero-section-text>p {
-        font-size: 1.5rem;
+    #hero-section {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
     }
+
+    .hero-section-text {
+        max-width: 100%;
+    }
+
+    #hero-section .hero-section-text>p {
+        font-size: 1.5rem; 
+        letter-spacing: 2px;
+        line-height: 3rem;
+        margin-bottom: 20px;
+    } 
 
     /* About */
 
@@ -334,6 +347,7 @@
 }
 
 @media (max-width: 1440px) {
+    
 
     /* About */
 
@@ -360,4 +374,5 @@
     #about .text {
         font-size: 2.5rem;
     }
+
 }
