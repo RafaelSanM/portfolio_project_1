@@ -7,7 +7,7 @@ Project milestone 1: HTML/CSS Essentials - Code Institute Full-Stack development
 This project is a Front End website for a Marketing agency. Essential for establishing a presence on the web, it works as a central hub for our services, projects and contacts. In addition to promoting visibility, the website is a powerful tool for attracting customers, conveying our expertise and building lasting relationships. It's the virtual gateway to exploring our innovative approach and winning new business opportunities.
 
 Live Project Here [Easy marketing project page](https://rafaelsanm.github.io/portfolio_project_1/).
-(https://github.com/RafaelSanM/portfolio_project_1/blob/main/src/images/responsive-img.png)
+![](./src/images/responsive-img.png)
 
 <h2>User Experience </h2>
 - As a website devloper, I'd like to:
