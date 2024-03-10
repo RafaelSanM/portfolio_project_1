@@ -65,7 +65,7 @@ There are three main colours used: (1 ) white rgba(255, 255, 255, 0.8), (2) yell
   - In this feature users have access to some of our projects. there's 7 images of projects.
 
 <h3>Contact Section</h3>
-![](./src/images/screenshot_contact_section.png)
+![](/src/images/screenshot_contact_section.png)
   - In this feature users have access to our contact details and a form that, when completed and submitted, takes them to the Thanks Page. 
 
 <h3>Thanks Page Section</h3>
