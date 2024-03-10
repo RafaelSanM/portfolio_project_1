@@ -50,36 +50,43 @@ There are three main colours used: (1 ) white rgba(255, 255, 255, 0.8), (2) yell
 
 <h1>Features</h1>
 <h3>Home Page</h3>
+
 ![](./src/images/images_read.me/screenshot_desktop.png)
   
   - The Home Page is the first contact that users have with this website. It has a slogan and links that lead to the About Page, Services Page, Projects Page and Contact Page.
 
 <h3>About Section</h3>
+
 ![](./src/images/images_read.me/screenshot_about_section.png)
 
   - In this feature users have access to information about the company, for example the company's main purpose, the benefits of choosing Easy Marketing and they also know our leaders and our team.
   
 <h3>Services Section</h3>
+
 ![](./src/images/images_read.me/screenshot_services_section.png)
 
   - In this feature users have access to information about the companies services and a small explanation of how we work.
 
 <h3>Projects Section</h3>
+
 ![](./src/images/images_read.me/screenshot_projects_section.png)
 
   - In this feature users have access to some of our projects. there's 7 images of projects.
 
 <h3>Contact Section</h3>
+
 ![](/src/images/images_read.me/screenshot_contact_section.png)
 
   - In this feature users have access to our contact details and a form that, when completed and submitted, takes them to the Thanks Page. 
 
 <h3>Thanks Page Section</h3>
+
 ![](./src/images/images_read.me/screenshot_tkspage.png)
 
   - Once the user successfully submits a contact form, they will be directed to the 'Thanks' Page. When the button is clicked it brings the users back to the contact form.
 
 <h3>Footer</h3>
+
 ![](./src/images/images_read.me/screenshot_footer.png)
 
   - Footer Section. Here users can see information about the company such adress, e-mail, phone and contact Easy Marketing through the social media links. The copyright message is also displayed.
