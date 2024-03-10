@@ -131,6 +131,16 @@
 
     footer {
         padding: 20px;
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .footer-contact>p {
+        text-align: center;
+    }
+
+    .footer-text {
+        margin-bottom: 20px;
     }
 
     #social-links {
