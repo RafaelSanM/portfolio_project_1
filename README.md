@@ -84,22 +84,23 @@ There are three main colours used: (1 ) white rgba(255, 255, 255, 0.8), (2) yell
 
 <h3>Frameworks - Libraries - Programs Used</h3>
 
-  - (https://fonts.google.com/)
+  - [Google Fonts:](https://fonts.google.com/)
       Google fonts were used to import the 'Ubuntu' font throughout the style.css.
-  - Git:
+  - [Git:](https://git-scm.com/)
       Git was used for version control by utilizing the Git Bash terminal to commit to Git and Push to GitHub.
   - [GitHub:](https://github.com/)
       GitHub is used to store the project's code after being pushed from Git.
-  - (https://www.pexels.com/)
+  - [Pexels:](https://www.pexels.com/)
       Pexels was used to get free images.
-  - (https://animista.net/)
+  - [Animista:](https://animista.net/)
       Animista was used to put some animation on the titles.
 
 <h2>Testing</h2
              
   The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
-    https://validator.w3.org/
-    https://jigsaw.w3.org/css-validator/
+
+  - https://validator.w3.org/
+  - https://jigsaw.w3.org/css-validator/
 
   
 
