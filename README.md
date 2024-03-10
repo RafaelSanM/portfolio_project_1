@@ -7,6 +7,7 @@ Project milestone 1: HTML/CSS Essentials - Code Institute Full-Stack development
 This project is a Front End website for a Marketing agency. Essential for establishing a presence on the web, it works as a central hub for our services, projects and contacts. In addition to promoting visibility, the website is a powerful tool for attracting customers, conveying our expertise and building lasting relationships. It's the virtual gateway to exploring our innovative approach and winning new business opportunities.
 
 <a>[Easy marketing project page](https://rafaelsanm.github.io/portfolio_project_1/)</a>
+
 ![](./src/images/responsive-img.png)
 
 <h2>User Experience </h2>
@@ -49,7 +50,7 @@ There are three main colours used: (1 ) white rgba(255, 255, 255, 0.8), (2) yell
 
 <h1>Features</h1>
 <h3>Home Page</h3>
-![](./src/images/screenshot_desktop.png)
+![](./src/images/images_read.me/screenshot_desktop.png)
   - The Home Page is the first contact that users have with this website. It has a slogan and links that lead to the About Page, Services Page, Projects Page and Contact Page.
 
 <h3>About Section</h3>
