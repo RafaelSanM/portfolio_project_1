@@ -6,7 +6,7 @@ Project milestone 1: HTML/CSS Essentials - Code Institute Full-Stack development
 
 This project is a Front End website for a Marketing agency. Essential for establishing a presence on the web, it works as a central hub for our services, projects and contacts. In addition to promoting visibility, the website is a powerful tool for attracting customers, conveying our expertise and building lasting relationships. It's the virtual gateway to exploring our innovative approach and winning new business opportunities.
 
-Live Project Here [Easy marketing project page](https://rafaelsanm.github.io/portfolio_project_1/).
+<a>[Easy marketing project page](https://rafaelsanm.github.io/portfolio_project_1/)</a>
 ![](./src/images/responsive-img.png)
 
 <h2>User Experience </h2>
@@ -49,39 +49,41 @@ There are three main colours used: (1 ) white rgba(255, 255, 255, 0.8), (2) yell
 
 <h1>Features</h1>
 <h3>Home Page</h3>
-(https://github.com/RafaelSanM/portfolio_project_1/blob/main/src/images/screenshot_desktop.png)
+![](./src/images/screenshot_desktop.png)
   - The Home Page is the first contact that users have with this website. It has a slogan and links that lead to the About Page, Services Page, Projects Page and Contact Page.
 
 <h3>About Section</h3>
-(https://github.com/RafaelSanM/portfolio_project_1/blob/main/src/images/screenshot_about_section.png)
+![](./src/images/screenshot_about_section.png)
   - In this feature users have access to information about the company, for example the company's main purpose, the benefits of choosing Easy Marketing and they also know our leaders and our team.
   
 <h3>Services Section</h3>
-(https://github.com/RafaelSanM/portfolio_project_1/blob/main/src/images/screenshot_service_section.png)
+![](./src/images/screenshot_services_section.png)
   - In this feature users have access to information about the companies services and a small explanation of how we work.
 
 <h3>Projects Section</h3>
-(https://github.com/RafaelSanM/portfolio_project_1/blob/main/src/images/screenshot_project_section.png)
+![](./src/images/screenshot_projects_section.png)
   - In this feature users have access to some of our projects. there's 7 images of projects.
 
 <h3>Contact Section</h3>
-(https://github.com/RafaelSanM/portfolio_project_1/blob/main/src/images/screenshot_contact_section.png)
+![](./src/images/screenshot_contact_section.png)
   - In this feature users have access to our contact details and a form that, when completed and submitted, takes them to the Thanks Page. 
 
 <h3>Thanks Page Section</h3>
-(https://github.com/RafaelSanM/portfolio_project_1/blob/main/src/images/screenshot_tkspage.png)
+![](./src/images/screenshot_tkspage.png)
   - Once the user successfully submits a contact form, they will be directed to the 'Thanks' Page. When the button is clicked it brings the users back to the contact form.
 
 <h3>Footer</h3>
-(https://github.com/RafaelSanM/portfolio_project_1/blob/main/src/images/screenshot_footer.png)
+![](./src/images/screenshot_footer.png)
   -Footer Section. Here users can see information about the company such adress, e-mail, phone and contact Easy Marketing through the social media links. The copyright message is also displayed.
 
 <h2>Technologies Used</h2>
 <h3>Languages Used</h3>
+
   - HTML5
   - CSS3
 
 <h3>Frameworks - Libraries - Programs Used</h3>
+
   - (https://fonts.google.com/)
       Google fonts were used to import the 'Ubuntu' font throughout the style.css.
   - Git:
